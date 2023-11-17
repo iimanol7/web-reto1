@@ -689,6 +689,7 @@ td {
 /* Estilos para cuando la pantalla es más pequeña */
 @media screen and (max-width:650px){
     #contenido-clasificacion{
+        background-color: #d7ccbc;
         width: 98%;
     }
 }
